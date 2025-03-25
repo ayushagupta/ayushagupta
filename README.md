@@ -1,4 +1,4 @@
-## Hi there 👋
+# 👋 Hey, I'm Ayush Anil Gupta!
 
 <!--
 **ayushagupta/ayushagupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Graduate Student | Software Engineer | Machine Learning Enthusiast**
+
+Welcome to my GitHub space! I’m a passionate developer, problem solver, and lifelong learner currently pursuing my Master’s in Computer Science at the University of Massachusetts Amherst. Previously, I earned my Bachelor’s and Master’s in Electrical Engineering with a Computer Science minor from IIT Kharagpur. I have professional experience as a Software Engineer-2 at Honeywell, where I built scalable microservices, improved system performance, and developed serverless, event-driven applications, earning the Bravo Award for my contributions. My technical expertise spans Python, C++, C#, Java, PyTorch, React, .NET, and cloud technologies like Azure Functions and Docker. I’m passionate about machine learning, NLP and distributed systems. Always eager to solve real-world problems!
